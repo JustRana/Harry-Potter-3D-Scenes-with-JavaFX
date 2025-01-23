@@ -1,6 +1,7 @@
 # 3D Computer Graphics Project - Inspired by Harry Potter ✨🪄
 
 This is a 3D computer graphics project developed in Java using JavaFX, inspired by the magical world of Harry Potter🧙‍♂️✨
+
 The project includes interactive scenes, lighting effects, sound integration, and realistic 3D shapes, offering an immersive experience.
 
 # Features
