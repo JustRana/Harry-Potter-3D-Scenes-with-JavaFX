@@ -46,7 +46,7 @@ Scene 1 🧙‍♂️:
  
  • Features Voldemort, highlighting the iconic battle between good and evil⚔️
 
-# Technologies Used
+# Tools
  • Programming Language: Java ☕
  
  • Graphics Library: JavaFX (for rendering 3D graphics)🎥
